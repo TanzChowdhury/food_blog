@@ -75,6 +75,8 @@ margin: 0;
     font-size: 20px;
     padding-left: 10%;
     padding-right: 10%;
+    color: saddlebrown;
+
 }
 .c2{
         width: 100%;
@@ -83,10 +85,10 @@ margin: 0;
         background-color: white; 
         margin-left: 2.5%;
         margin-right: 2.5%;
-        margin-bottom: 2%;
+        margin-bottom: 3%;
         padding-left: 10px;
         border-radius: 30px;
-        box-shadow: 10px 10px 40px gray;
+        box-shadow: 10px 10px 35px gray;
         
         
 
@@ -108,4 +110,18 @@ margin: 0;
 }
 #menu_color2{
     color:goldenrod;
+}
+#menu_description{
+    font-weight: bold;
+    color:#484848;
+}
+footer{
+    background-image:linear-gradient(#484848, #141414); 
+    padding-top: 1%;
+    padding-bottom: 4%;
+    text-align: center;
+    color: whitesmoke;
+}
+#food_color{
+    color:darkgoldenrod;
 }
